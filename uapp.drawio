@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-09-16T23:47:05.299Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" version="20.3.2" etag="pk13LyayrbmMmmQfu88z" type="github"><diagram id="StDbWVGbuC4IspPMEpyC">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-16T23:52:19.944Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="noaOfgBSQ-uB2H6fyTnE" version="20.3.2" type="github">
+  <diagram id="StDbWVGbuC4IspPMEpyC" name="Page-1">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kidQvLxyVNKyfz2EifL9-1" value="" style="strokeColor=#b85450;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_3900;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="240" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="kidQvLxyVNKyfz2EifL9-5" value="SM网关" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7010_mobility_controller_rear;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="240" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
