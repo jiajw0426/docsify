@@ -1,16 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-09-17T22:33:18.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="fhKBXyIVPpRyLYyLjG4Z" version="20.3.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-17T22:37:34.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="6zw4VVI8Wuw3GODGSBzq" version="20.3.2" type="github" pages="3">
   <diagram id="StDbWVGbuC4IspPMEpyC" name="逻辑架构">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kidQvLxyVNKyfz2EifL9-12" value="" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.em_4000;verticalLabelPosition=bottom;verticalAlign=top;direction=south;" parent="1" vertex="1">
+          <mxGeometry x="520" y="364.5" width="20" height="168" as="geometry" />
+        </mxCell>
         <mxCell id="kidQvLxyVNKyfz2EifL9-1" value="" style="strokeColor=#b85450;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.big_ip_3900;fillColor=#f8cecc;verticalLabelPosition=bottom;verticalAlign=top;rotation=-90;" parent="1" vertex="1">
           <mxGeometry x="223" y="440" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="kidQvLxyVNKyfz2EifL9-7" value="PC" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/browser.svg;" parent="1" vertex="1">
+        <mxCell id="kidQvLxyVNKyfz2EifL9-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;PC&lt;/font&gt;" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#ffffff;fontSize=12;spacingTop=3;image;image=img/lib/ibm/users/browser.svg;" parent="1" vertex="1">
           <mxGeometry x="50" y="370" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="279GZXbuPQH-2VherzGU-2" value="APP" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
+        <mxCell id="279GZXbuPQH-2VherzGU-2" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;APP&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" vertex="1" parent="1">
           <mxGeometry x="63" y="482.5" width="34" height="50" as="geometry" />
         </mxCell>
         <mxCell id="279GZXbuPQH-2VherzGU-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="279GZXbuPQH-2VherzGU-7">
@@ -23,7 +26,7 @@
             <mxPoint x="205" y="730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="279GZXbuPQH-2VherzGU-7" value="防火墙" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
+        <mxCell id="279GZXbuPQH-2VherzGU-7" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;防火墙&lt;/font&gt;" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Firewall.svg;" vertex="1" parent="1">
           <mxGeometry x="160" y="392.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="279GZXbuPQH-2VherzGU-8" value="" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.arx_1500;rotation=-90;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
@@ -39,14 +42,11 @@
             <mxPoint x="530" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kidQvLxyVNKyfz2EifL9-12" value="隔离器" style="strokeColor=#666666;html=1;labelPosition=center;align=center;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.f5.em_4000;verticalLabelPosition=bottom;verticalAlign=top;direction=south;" parent="1" vertex="1">
-          <mxGeometry x="520" y="364.5" width="20" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="279GZXbuPQH-2VherzGU-11" value="互联网应用" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="279GZXbuPQH-2VherzGU-11" value="互联网应用" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fontSize=15;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="349.75" width="100" height="197.5" as="geometry" />
         </mxCell>
-        <mxCell id="279GZXbuPQH-2VherzGU-12" value="国密网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="254" y="533" width="60" height="30" as="geometry" />
+        <mxCell id="279GZXbuPQH-2VherzGU-12" value="国密网关" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="247" y="528" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="279GZXbuPQH-2VherzGU-13" value="F5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="314" y="585" width="60" height="30" as="geometry" />
@@ -57,10 +57,21 @@
         <mxCell id="279GZXbuPQH-2VherzGU-19" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.app_mesh;" vertex="1" parent="1">
           <mxGeometry x="409" y="460" width="68" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="279GZXbuPQH-2VherzGU-20" value="隔离器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="6_34CZgR78dx1TL6g_d-" name="微服务">
+    <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PspLelQ5clBklRm2M0sI" name="图标">
     <mxGraphModel dx="1422" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
