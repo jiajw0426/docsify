@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T01:53:26.220Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="0l3sx-Bu5aM0OqFT_IUS" version="20.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-18T01:56:25.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="z7eLkgEs95L6e8F6EiWg" version="20.3.2" type="github" pages="3">
   <diagram id="StDbWVGbuC4IspPMEpyC" name="逻辑架构">
     <mxGraphModel dx="1422" dy="698" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,6 +230,17 @@
         </mxCell>
         <mxCell id="m3LcLo5OtCLxM7g7hp-4-38" value="日志收集" style="sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=rb;rounded=1;labelBorderColor=none;strokeWidth=4;fontSize=12;fontColor=#000000;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;" vertex="1" parent="m3LcLo5OtCLxM7g7hp-4-39">
           <mxGeometry x="27.799999999999955" y="261.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3LcLo5OtCLxM7g7hp-4-40" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontSize=12;fontColor=#000000;endArrow=none;endFill=0;" edge="1" parent="1" source="5YxdOxnbpySZtFgNDn4F-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3LcLo5OtCLxM7g7hp-4-41" value="互联网" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;strokeWidth=4;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="50" y="157" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m3LcLo5OtCLxM7g7hp-4-42" value="DMZ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;strokeWidth=4;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="321" y="157" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
