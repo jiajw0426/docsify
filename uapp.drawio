@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-18T07:12:01.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="LxMZiG6hbrrTPUDhJw1_" version="20.3.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-18T07:23:13.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="MQYHsMTfZjivp909UmW3" version="20.3.2" type="github" pages="3">
   <diagram id="StDbWVGbuC4IspPMEpyC" name="逻辑架构">
     <mxGraphModel dx="2249" dy="1867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -364,6 +364,15 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="dUXEkgbGMJXo8qOIGCkz-1" value="Spring" style="rounded=1;whiteSpace=wrap;html=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="230" y="550" width="290" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="dUXEkgbGMJXo8qOIGCkz-2" value="JavaClass" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="570" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dUXEkgbGMJXo8qOIGCkz-4" value="动态代理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="630" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
