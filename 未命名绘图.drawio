@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T09:15:45.301Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="Gda0a8SW3TmDRx3n-AtD" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-10T09:18:45.585Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="gVxRh-WyVhJMQZjYdARS" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -376,8 +376,26 @@
         <mxCell id="255xTSnmtBEulPMdLC6T-48" value="Spring Boot" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
           <mxGeometry x="16.5" y="43" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="255xTSnmtBEulPMdLC6T-49" value="X86" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+        <mxCell id="255xTSnmtBEulPMdLC6T-49" value="持久化技术" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
           <mxGeometry x="16.5" y="86" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-54" value="日志" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="120" y="43" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-55" value="监控" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="120" y="86" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-56" value="链路追踪" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="221.5" y="43" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-60" value="自动化测试" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="221.5" y="86" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-61" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="320" y="43" width="77" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="255xTSnmtBEulPMdLC6T-62" value="微服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="255xTSnmtBEulPMdLC6T-47">
+          <mxGeometry x="320" y="86" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="255xTSnmtBEulPMdLC6T-50" value="前端开发" style="swimlane;whiteSpace=wrap;html=1;rounded=1;strokeColor=#005700;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#004C99;startSize=30;swimlaneFillColor=#99CCFF;collapsible=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="1040" y="175" width="113" height="130" as="geometry" />
