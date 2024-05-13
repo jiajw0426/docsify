@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T00:03:33.440Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9ZTL-QnOdynpWPZvTAGb" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-13T00:04:44.524Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L6_sNCPcr94n2C7XXIMk" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -484,22 +484,22 @@
         <mxCell id="3yENoM2OStNMgEXgN3r2-35" value="权限管理" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="16.5" y="43" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yENoM2OStNMgEXgN3r2-36" value="认证中心" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
+        <mxCell id="3yENoM2OStNMgEXgN3r2-36" value="跨中心调用" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="16.5" y="88" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yENoM2OStNMgEXgN3r2-37" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
+        <mxCell id="3yENoM2OStNMgEXgN3r2-37" value="流量控制" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="220" y="44" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-38" value="用户认证" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="110" y="44" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yENoM2OStNMgEXgN3r2-39" value="BNS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
+        <mxCell id="3yENoM2OStNMgEXgN3r2-39" value="负载均衡" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="330" y="44" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yENoM2OStNMgEXgN3r2-40" value="DNS" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
-          <mxGeometry x="110" y="86" width="77" height="30" as="geometry" />
+        <mxCell id="3yENoM2OStNMgEXgN3r2-40" value="红绿灯" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
+          <mxGeometry x="111" y="90" width="77" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3yENoM2OStNMgEXgN3r2-41" value="缓存服务" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
+        <mxCell id="3yENoM2OStNMgEXgN3r2-41" value="内外网穿透" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
           <mxGeometry x="220" y="88" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-42" value="Airgap" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="3yENoM2OStNMgEXgN3r2-34">
