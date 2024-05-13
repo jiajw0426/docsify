@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-13T00:01:56.387Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xH32voydtKkN16P4qYIG" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-13T00:03:33.440Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="9ZTL-QnOdynpWPZvTAGb" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="7a6c530e-6e37-e111-ec74-82921da8cc10">
     <mxGraphModel dx="1434" dy="922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#184380" math="0" shadow="0">
       <root>
@@ -557,19 +557,25 @@
           <mxGeometry x="19.5" y="90" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-69" value="应用发布" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1011.5" y="-230" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1011.5" y="-250" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-70" value="集群检查" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1011.5" y="-170" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1013.5" y="-200" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-71" value="监控系统" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1015.75" y="-110" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1015.75" y="-150" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-72" value="日志分析" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1015.75" y="-40" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1015.75" y="-100" width="108.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3yENoM2OStNMgEXgN3r2-73" value="链路追踪" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="1015.75" y="30" width="108.5" height="30" as="geometry" />
+          <mxGeometry x="1015.75" y="-50" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yENoM2OStNMgEXgN3r2-74" value="数据备份" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1015.75" y="10" width="108.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3yENoM2OStNMgEXgN3r2-75" value="故障诊断" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="1015.75" y="70" width="108.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
